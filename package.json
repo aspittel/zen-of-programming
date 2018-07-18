@@ -1,0 +1,41 @@
+{
+  "name": "zen-of-programming",
+  "description": "zen-of-programming",
+  "version": "1.0.0",
+  "author": "Ali Spittel <ali07cat07@gmail.com>",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.0-14",
+    "@fortawesome/free-solid-svg-icons": "^5.1.0-11",
+    "@fortawesome/react-fontawesome": "0.1.0-11",
+    "gatsby": "^1.9.273",
+    "gatsby-cli": "^1.1.50",
+    "gatsby-image": "^1.0.54",
+    "gatsby-link": "^1.6.39",
+    "gatsby-plugin-google-analytics": "^1.0.24",
+    "gatsby-plugin-react-helmet": "^2.0.7",
+    "gatsby-plugin-sharp": "^1.6.48",
+    "gatsby-remark-prismjs": "^1.2.18",
+    "gatsby-source-filesystem": "^1.5.39",
+    "gatsby-transformer-remark": "^1.7.37",
+    "gatsby-transformer-sharp": "^1.6.27",
+    "i": "^0.3.6",
+    "npm": "^6.1.0",
+    "react-helmet": "^5.2.0",
+    "react-ionicons": "^2.1.6"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write 'src/**/*.js'",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.1.0",
+    "prettier": "^1.11.1"
+  }
+}
