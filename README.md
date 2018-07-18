@@ -1,1 +1,1 @@
-# on-learning-new-things
+# My blog
