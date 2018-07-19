@@ -6,15 +6,16 @@ date: "7/19/2018"
 cover: "/web-framework.png"
 published: true
 ---
+
 "Framework" is a word used a lot in relation to code. So, what even is a framework? When we talk about frameworks, those frameworks normally fall into three different categories -- frontend, backend, and CSS or user interface frameworks. But even once you know what frameworks are, which one should you learn or use and why? This post will discuss what a framework is, what frameworks are out there, and how to make decisions about what kind of framework you should use for your projects!
 
 ## What are Frameworks
 
-If we look at a couple different web applications we can see that there are a lot of duplicated features. Many have user authentication, pages that render, they connect to databases, they have profiles you can look at, they all have stylized feeds of information etc. If I wanted to, I could write all of that logic myself every time I want to build a new application; however, there are also a lot of tools available which can do that for us instead. 
+If we look at a couple different web applications we can see that there are a lot of duplicated features. Many have user authentication, pages that render, they connect to databases, they have profiles you can look at, they all have stylized feeds of information etc. If I wanted to, I could write all of that logic myself every time I want to build a new application; however, there are also a lot of tools available which can do that for us instead.
 
 In addition, a lot of the time when we build applications we want to format our code in certain ways that help us become more efficient and help other developers understand our code. Web frameworks help us achieve structure in our applications, and they give us additional features we can add to them without too much extra work. Frameworks give us a place to start so that we can focus on features rather than configuration details.
 
-Code is read many more times than it is written, and it is so important when you are working with other developers that they know where the code for certain tasks is being written so they can use it in their own code. The frameworks also have conventions for how the code is written and structured, which standardize how the developers write their code. 
+Code is read many more times than it is written, and it is so important when you are working with other developers that they know where the code for certain tasks is being written so they can use it in their own code. The frameworks also have conventions for how the code is written and structured, which standardize how the developers write their code.
 
 > Most websites share a very similar (not to say identical) structure. The aim of frameworks is to provide a common structure so that developers don’t have to redo it from scratch and can reuse the code provided. In this way, frameworks allow us to cut out much of the work and save a lot of time.
 
@@ -162,7 +163,7 @@ If you want to use or learn a framework, [here](https://github.com/gothinkster/r
 ### And if you want to read more of my articles on Frameworks
 
 * [How I Built an API with Mux, Go, PostgreSQL, and GORM](https://dev.to/aspittel/how-i-built-an-api-with-mux-go-postgresql-and-gorm-5ah8) - Mux is a backend framework for the Go programming language!
-* [Functional Programming in JavaScript with Hyperapp](https://dev.to/aspittel/functional-programming-in-javascript-done-right-with-hyperapp-570f) - Hyperapp is a brand new frontend framework that I really enjoy! 
+* [Functional Programming in JavaScript with Hyperapp](https://dev.to/aspittel/functional-programming-in-javascript-done-right-with-hyperapp-570f) - Hyperapp is a brand new frontend framework that I really enjoy!
 * [Learning Angular 5 as a React and Vue Developer](https://dev.to/aspittel/learning-angular-5-as-a-react-and-vue-developer-5dp3) - Angular is a very popular frontend framework for writing large applications!
 
 #### Stay in touch!
