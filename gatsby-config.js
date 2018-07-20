@@ -4,6 +4,7 @@ module.exports = {
   },
   pathPrefix: "/on-learning-new-things",
   plugins: [
+    "gatsby-plugin-twitter",
     "gatsby-plugin-react-helmet",
     {
       resolve: `gatsby-source-filesystem`,
@@ -46,4 +47,4 @@ module.exports = {
       }
     }
   ]
-};
+}

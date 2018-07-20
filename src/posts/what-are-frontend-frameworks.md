@@ -2,7 +2,7 @@
 title: What is a Web Framework, and Why Should I use one?
 tags: ["webdev", "beginners", "code"]
 path: "/web-framework-intro"
-date: "7/19/2018"
+date: "7/18/2018"
 cover: "/web-framework.png"
 published: true
 ---
