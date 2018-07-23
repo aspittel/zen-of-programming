@@ -29,7 +29,7 @@ function averageArray (array) {
 }
 ```
 
-> Don't minify your own code, use full variable names that the next developer can understand.
+> **Don't minify your own code, use full variable names that the next developer can understand.**
 
 ## 2. Write short functions that only do one thing
 
