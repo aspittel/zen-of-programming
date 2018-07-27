@@ -1,8 +1,8 @@
 ---
-title: "Friday Wrap Up: July 26th Edition"
+title: "Friday Wrap Up: July 27th Edition"
 tags: ["Friday", "links", "wrapup"]
-path: "/friday-jul-26"
-date: "7/26/2018"
+path: "/friday-jul-27"
+date: "7/27/2018"
 cover: "/friyay.png"
 published: true
 ---
