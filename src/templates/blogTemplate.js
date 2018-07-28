@@ -1,11 +1,11 @@
-import React from "react";
+import React from "react"
 import SideBar from "../components/SideBar"
 
 export default function Template({
   data // this prop will be injected by the GraphQL query below.
 }) {
-  const { markdownRemark } = data; // data.markdownRemark holds our post data
-  const { frontmatter, html } = markdownRemark;
+  const { markdownRemark, selfie } = data // data.markdownRemark holds our post data
+  const { frontmatter, html } = markdownRemark
   return (
     <div className="page-content">
       <div className="blog-post">
@@ -17,13 +17,18 @@ export default function Template({
           dangerouslySetInnerHTML={{ __html: html }}
         />
       </div>
-      <SideBar/>
+      <SideBar selfie={selfie}/>
     </div>
-  );
+  )
 }
 
 export const pageQuery = graphql`
   query BlogPostByPath($path: String!) {
+    selfie: imageSharp(id: { regex: "/selfie/" }) {
+      sizes(maxWidth: 500) {
+        ...GatsbyImageSharpSizes_noBase64
+      }
+    }
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
@@ -34,4 +39,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`

@@ -11,7 +11,7 @@ const IndexPage = props => {
   return (
     <div className="page-content">
       <div className="posts">{Posts}</div>
-      <SideBar />
+      <SideBar selfie={props.data.selfie}/>
     </div>
   );
 };
@@ -20,6 +20,11 @@ export default IndexPage;
 
 export const pageQuery = graphql`
   query IndexQuery {
+    selfie: imageSharp(id: { regex: "/selfie/" }) {
+        sizes(maxWidth: 500) {
+          ...GatsbyImageSharpSizes_noBase64
+        }
+    }
     allMarkdownRemark(
       filter: { frontmatter: { published: { eq: true } } }
       sort: { fields: [frontmatter___date], order: DESC }
