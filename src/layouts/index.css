@@ -234,3 +234,7 @@ p {
     display: none;
   }
 }
+
+.blog-post {
+  margin-right: 30px;
+}

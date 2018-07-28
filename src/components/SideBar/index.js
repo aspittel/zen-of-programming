@@ -1,28 +1,54 @@
 import React from 'react'
-import Tags from '../Tags'
+import selfie from "../../img/selfie.jpg";
 
-const SideBar = ({ tags }) => (
-  <div>
-    <div className='vertical-line'>
-      <h2>About</h2>
-      <p>
-        Hi! I’m Ali. I’m a (mostly) self taught software engineer, and my favorite thing to do is to learn new things.
-      </p>
-      <p>
-        The entire field of development is rapidly evolving — it seems like every day there is a hot new JavaScript framework or code challenge trending on Twitter. It gets really hard to filter out the noise and only stick to learning some of these technologies.
-      </p>
-      <p>
-        I’ve decided to temporarily throw caution to the wind and try to learn all the things — one thing per week in fact. This blog focuses on me learning one thing a week and then reporting back here on how it went.
-      </p>
-      <div className='contact'>
-        <h2>Find Me Online!</h2>
-        <a href='http://twitter.com/aspittel'>Twitter</a>
-        <a href='http://alispit.tel'>Personal Site</a>
-        <a href='http://dev.to/aspittel'>Dev.to</a>
-      </div>
-
-    </div>
+const SideBar = _ => (
+  <div className="bio">
+  <div className="about">
+    <h3>Ali Spittel</h3>
+    <img src={selfie} alt="Me writing code" />
+    Hi! Welcome to the Zen of Programming where I talk about programming
+    and my life surrounding it!
   </div>
+  <div className="subscribe">
+    <h3>Don't miss any articles!</h3>
+    <form
+      style={{
+        border: "1px",
+        solid: "#ccc",
+        padding: "3px",
+        textAlign: "center"
+      }}
+      action="https://tinyletter.com/ali_writes_code"
+      method="post"
+      target="popupwindow"
+      onSubmit={() => {
+        window.open(
+          "https://tinyletter.com/ali_writes_code",
+          "popupwindow",
+          "scrollbars=yes,width=800,height=600"
+        );
+        return true;
+      }}
+    >
+      <p>
+        <input
+          type="text"
+          name="email"
+          id="tlemail"
+          placeholder="Your email address"
+          className="email-field"
+        />
+      </p>
+
+      <input type="hidden" value="1" name="embed" />
+      <input
+        type="submit"
+        value="Subscribe"
+        className="subscribe-button"
+      />
+    </form>
+  </div>
+</div>
 )
 
 export default SideBar

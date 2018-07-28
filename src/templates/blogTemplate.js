@@ -1,4 +1,5 @@
 import React from "react";
+import SideBar from "../components/SideBar"
 
 export default function Template({
   data // this prop will be injected by the GraphQL query below.
@@ -6,7 +7,7 @@ export default function Template({
   const { markdownRemark } = data; // data.markdownRemark holds our post data
   const { frontmatter, html } = markdownRemark;
   return (
-    <div className="blog-post-container">
+    <div className="page-content">
       <div className="blog-post">
         <h1>{frontmatter.title}</h1>
         <img src={frontmatter.cover} x alt="" srcSet="" />
@@ -16,6 +17,7 @@ export default function Template({
           dangerouslySetInnerHTML={{ __html: html }}
         />
       </div>
+      <SideBar/>
     </div>
   );
 }
