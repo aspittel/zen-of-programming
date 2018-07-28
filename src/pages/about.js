@@ -1,11 +1,11 @@
 import React from "react";
-import codingPic from "../img/writing-code.jpeg";
+import Img from "gatsby-image";
 
-const AboutPage = _ => {
+const AboutPage = props => {
   return (
     <div>
       <div className="container">
-        <img src={codingPic} alt="picture of me" className="selfie" />
+        <Img sizes={props.data.writingCode.sizes} alt="picture of me" className="selfie" />
         <p>
           Hi! I'm Ali. I'm a (mostly) self-taught software engineer who lives in
           Washington, DC.
@@ -31,3 +31,13 @@ const AboutPage = _ => {
 };
 
 export default AboutPage;
+
+export const pageQuery = graphql`
+  query AboutQuery {
+    writingCode: imageSharp(id: { regex: "/writing-code/" }) {
+        sizes(maxWidth: 500) {
+          ...GatsbyImageSharpSizes_noBase64
+        }
+    }
+  }
+`;

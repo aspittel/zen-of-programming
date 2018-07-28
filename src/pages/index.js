@@ -1,6 +1,6 @@
 import React from "react";
 import PostLink from "../components/post-link";
-import SideBar from "../components/SideBar"
+import SideBar from "../components/SideBar";
 
 const IndexPage = props => {
   const edges = props.data.allMarkdownRemark.edges;
