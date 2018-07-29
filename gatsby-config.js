@@ -16,6 +16,7 @@ module.exports = {
         icon: "static/zen-of-programming-logo.png", // This path is relative to the root of the site.
       },
     },  
+    `gatsby-plugin-offline`,
     "gatsby-plugin-twitter",
     "gatsby-plugin-react-helmet",
     {
