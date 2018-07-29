@@ -1,9 +1,21 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Default Starter"
+    title: "The Zen of Programming"
   },
-  pathPrefix: "/on-learning-new-things",
+  
   plugins: [
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: "The Zen of Programming",
+        short_name: "ZenOfCode",
+        start_url: "/",
+        background_color: "#fff",
+        theme_color: "#cf92b7",
+        display: "minimal-ui",
+        icon: "static/zen-of-programming-logo.png", // This path is relative to the root of the site.
+      },
+    },  
     "gatsby-plugin-twitter",
     "gatsby-plugin-react-helmet",
     {
