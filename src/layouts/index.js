@@ -24,7 +24,9 @@ const TemplateWrapper = ({ children }) => (
             "code, programming, women, tech, python, frontend, backend, javascript, html, css"
         }
       ]}
-    />
+      >
+      <html lang="en" />
+    </Helmet>
     <NavBar />
     <Header />
     {children()}
