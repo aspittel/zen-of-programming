@@ -11,19 +11,20 @@ const NavBar = () => (
     </span>
 
     <span className="social-links">
-      <a href="https://www.instagram.com/ali_writes_code/">
+      <a href="https://www.instagram.com/ali_writes_code/" aria-label="Instagram">
+        
         <Ionicon icon="logo-instagram" />
       </a>
 
-      <a href="https://twitter.com/ASpittel">
+      <a href="https://twitter.com/ASpittel" aria-label="Twitter">
         <Ionicon icon="logo-twitter" />
       </a>
 
-      <a href="https://www.pinterest.com/ali0714/" className="pinterest">
+      <a href="https://www.pinterest.com/ali0714/" className="pinterest" aria-label="Pinterest">
         <Ionicon icon="logo-pinterest" />
       </a>
 
-      <a href="https://www.github.com/aspittel">
+      <a href="https://www.github.com/aspittel" aria-label="GitHub">
         <Ionicon icon="logo-github" />
       </a>
     </span>

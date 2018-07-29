@@ -32,6 +32,7 @@ const SideBar = props => {
           }}
         >
           <p>
+            <label htmlFor="tlemail">Email</label>
             <input
               type="text"
               name="email"
