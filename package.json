@@ -8,6 +8,7 @@
     "gatsby-cli": "^1.1.50",
     "gatsby-image": "^1.0.55",
     "gatsby-link": "^1.6.39",
+    "gatsby-plugin-feed": "^1.3.25",
     "gatsby-plugin-google-analytics": "^1.0.24",
     "gatsby-plugin-manifest": "^1.0.27",
     "gatsby-plugin-offline": "^1.0.18",

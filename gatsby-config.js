@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: "The Zen of Programming"
+    title: "The Zen of Programming",
+    siteUrl: `https://zen-of-programming.com`
   },
   
   plugins: [
@@ -19,6 +20,9 @@ module.exports = {
     `gatsby-plugin-offline`,
     "gatsby-plugin-twitter",
     "gatsby-plugin-react-helmet",
+    {
+      resolve: `gatsby-plugin-feed`
+    },  
     {
       resolve: `gatsby-source-filesystem`,
       options: {
