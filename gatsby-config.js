@@ -1,9 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: "The Zen of Programming",
-    siteUrl: `https://zen-of-programming.com`
+    siteUrl: `https://zen-of-programming.com`,
+    description:
+      "Hi! Welcome to the Zen of Programming where I talk about programming and my life surrounding it!"
   },
-  
+
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
@@ -14,15 +16,13 @@ module.exports = {
         background_color: "#fff",
         theme_color: "#cf92b7",
         display: "minimal-ui",
-        icon: "static/zen-of-programming-logo.png", // This path is relative to the root of the site.
-      },
-    },  
+        icon: "static/zen-of-programming-logo.png" // This path is relative to the root of the site.
+      }
+    },
     `gatsby-plugin-offline`,
     "gatsby-plugin-twitter",
     "gatsby-plugin-react-helmet",
-    {
-      resolve: `gatsby-plugin-feed`
-    },  
+    // "gatsby-plugin-feed",
     {
       resolve: `gatsby-source-filesystem`,
       options: {

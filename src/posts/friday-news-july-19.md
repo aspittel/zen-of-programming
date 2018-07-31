@@ -47,3 +47,4 @@ Each day on [Twitter](https://twitter.com/ASpittel), I post a code challenge to 
 ## Next Week
 
 I have some really exciting things in store for next week, so stay tuned for my terminal setup, public speaking tips, and how to write cleaner code! If you want to get this weekly wrap-up directly in your inbox, [subscribe here](https://tinyletter.com/ali_writes_code)!
+
