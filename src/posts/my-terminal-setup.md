@@ -12,15 +12,15 @@ As a follow up to my [post](https://zen-of-programming.com/vs-code-setup/) on my
 
 I use iTerm2 for my Terminal emulator. It has some really cool features, like search, autocomplete, and paste history. That being said, the feature that makes it a complete must have for me is the split panes. 
 
-![My Terminal](terminal.png)
+![My Terminal](/terminal.png)
 
 When I do web development work, I usually have panes open for my server session and for running other commands as necessary. When running many processes at a time, as was required at my old job, I would easily have 10 panes open at a time
 
-![Lot's of sessions](lots-of-sessions.png)
+![Lot's of sessions](/lots-of-sessions.png)
 
 You can use the shortcut `cmd + d` for a new pane horizontally, and `cmd + shift + d` for a new vertical pane.
 
-![my terminal colors](color-settings.png)
+![my terminal colors](/color-settings.png)
 
 I do have some tweaks to the color palette that I use -- I think the biggest is that my default font is pink (the forefront color).
 
@@ -36,7 +36,7 @@ That being said, the pros for me far outweigh the cons. The tab completion is mu
 
 [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) is a framework for managing your Zsh configuration, and it is a must download. When I refer to Zsh, a lot of the features are actually a part of Oh My Zsh.
 
-![](tab-completion.png)
+![](/tab-completion.png)
 
 ## My .zshrc
 
@@ -44,7 +44,7 @@ Instead of a `.bash_profile`, Zsh primarily uses a `.zshrc` file where your cust
 
 Zsh has awesome themes, which change the appearance of your prompt. 
 
-![](prompt.png)
+![](/prompt.png)
 
 I use [Spaceship](https://github.com/denysdovhan/spaceship-prompt) which displays a bunch of excellent information. For example, in the directory for my blog, which is a node app, my git branch, the git status, the package version, and the current Node version display. Also, it shows the amount of time the previous command took to run and the computer battery percentage if it is low! This changes slightly from directory to directory, but its really nice to have this information so accessible, especially compared to how difficult it can be to create something similar in a Bash environment.
 
@@ -87,7 +87,7 @@ Some built-in ones I rely on especially hard are "..." which is an alias for "cd
 
 Another bonus utility I have on my computer is `tree` (which you can install on a Mac with `brew install tree`). This lists the folders and files in a directory in a really nice way.
 
-![file tree](tree.png)
+![file tree](/tree.png)
 
 ## Stay in touch!
 
