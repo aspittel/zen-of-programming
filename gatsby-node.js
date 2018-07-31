@@ -10,8 +10,8 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
   return graphql(`
     {
       allMarkdownRemark(
-        sort: { order: DESC, fields: [frontmatter___date] }
-        limit: 1000
+        filter: { frontmatter: { published: { eq: true } } }
+        sort: { fields: [frontmatter___date], order: DESC }
       ) {
         edges {
           node {
@@ -19,7 +19,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
               path
               tags
             }
-          }
+           }
         }
       }
     }
