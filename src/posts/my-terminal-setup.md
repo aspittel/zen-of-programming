@@ -89,4 +89,6 @@ Another bonus utility I have on my computer is `tree` (which you can install on 
 
 ![file tree](tree.png)
 
+## Stay in touch!
 
+If you liked this article and want to read more, I have a [weekly newsletter](https://tinyletter.com/ali_writes_code) with my favorite links from the week and my latest articles. Also, [tweet](https://twitter.com/aspittel) me a picture of your terminal setup!
