@@ -56,6 +56,10 @@ function averageArray(array) {
 
 **If you are writing a function that could be named with an "and" in it -- it really should be two functions.**
 
+### To summarize my tips for functions...
+
+![](./function-tips.jpg)
+
 ## 3. Documentation
 
 Write good documentation for your code so that future developers understand what your code is doing and why.
@@ -100,6 +104,10 @@ I highly recommend watching [her full talk](https://www.youtube.com/watch?v=npOG
 I've been following these consistently for the past two years or so, and they become so ingrained that I barely think about them! I really like them, and I think they make code more maintainable.
 
 __These rules are only guidelines, but they can significantly clean up your code.__
+
+### To Summarize the Sandi Metz rules...
+
+![](./sandi-metz-rules.jpg)
 
 ## 5. Be Consistent
 
