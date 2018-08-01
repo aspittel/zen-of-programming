@@ -3,7 +3,7 @@ title: "Friday Wrap Up: July 19th Edition"
 tags: ["Friday", "links", "wrapup"]
 path: "/friday-jul-19"
 date: "7/19/2018"
-cover: "/friyay.png"
+cover: "/friyay/friyay.png"
 published: true
 ---
 
