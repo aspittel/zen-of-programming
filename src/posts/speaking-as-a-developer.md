@@ -3,7 +3,7 @@ title: Public Speaking as a Developer
 tags: ["tech talks", "speaking"]
 path: "/speaking-as-a-developer"
 date: "7/25/2018"
-cover: "./speaking.jpg"
+cover: "./speaking/speaking.jpg"
 published: true
 ---
 
@@ -80,7 +80,7 @@ I tend to use few words on my slides, and I like using a lot of images on them a
 
 [Here](https://www.alispit.tel/ar-javascript/#/intro) is an example of one of my slide decks!
 
-![what my slides look like](https://thepracticaldev.s3.amazonaws.com/i/dh2s8xntfxmkforp2ish.png)
+![what my slides look like](/speaking/ar-slides.png)
 
 I tend to put my Twitter handle on the first slide so that people can tag me in things as I go, some people even put their handle on every slide! I also have all my links on the last slide so that people can get in touch with me if they want after.
 
@@ -90,7 +90,7 @@ Make sure you pay attention to the length of your talk! Some conferences do 30-m
 
 ## The Day of your Talk
 
-![Me speaking at an event](https://thepracticaldev.s3.amazonaws.com/i/y9ckdz5mc77013uawwq7.jpg)
+![Me speaking at an event](./speaking/built-my-blog.jpg)
 
 So, I'm not going to sugar coat this, you will almost definitely be nervous on the day of your talk, especially right before. It happens! I still get nervous and I do this all the time! My biggest tip here is to listen to peppy music that you really like right before you speak-- I listen to Britney Spears and Beyonce before every talk and love it. I wear clothes that I'm comfortable in, that usually make a statement -- that's just another thing that makes me feel more confident in front of a crowd.
 

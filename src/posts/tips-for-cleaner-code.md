@@ -3,7 +3,7 @@ title: "Extreme Makeover: Code Edition"
 tags: ["tech talks", "list", "speaking"]
 path: "/cleaner-code"
 date: "7/23/2018"
-cover: "./clean code.jpg"
+cover: "./clean-code/clean code.jpg"
 published: true
 ---
 
@@ -58,7 +58,7 @@ function averageArray(array) {
 
 ### To summarize my tips for functions...
 
-![](./function-tips.jpg)
+![](./clean-code/function-tips.jpg)
 
 ## 3. Documentation
 
@@ -107,7 +107,7 @@ __These rules are only guidelines, but they can significantly clean up your code
 
 ### To Summarize the Sandi Metz rules...
 
-![](./sandi-metz-rules.jpg)
+![](./clean-code/sandi-metz-rules.jpg)
 
 ## 5. Be Consistent
 

@@ -3,7 +3,7 @@ title: "Friday Wrap Up: July 27th Edition"
 tags: ["Friday", "links", "wrapup"]
 path: "/friday-jul-27"
 date: "7/27/2018"
-cover: "/friyay.png"
+cover: "/friyay/friyay.png"
 published: true
 ---
 
@@ -33,11 +33,11 @@ I have another exciting project launching this week, I will be co-hosting a Twit
 * My [Dribbble account](https://dribbble.com/aspit) was approved this week -- I'm definitely looking for must follows on there so please give me suggestions!
 * I've been trying [Instagram](https://www.instagram.com/ali_writes_code/) out a little bit recently. I'm not 100% sure if I'm going to stick with it, but here's  are some of my posts from this week!
 
-[![Clean Code Instagram](./clean-code-insta.jpg)](https://www.instagram.com/p/BllD-vghftV/?utm_source=ig_web_copy_link)
+[![Clean Code Instagram](./friyay/clean-code-insta.jpg)](https://www.instagram.com/p/BllD-vghftV/?utm_source=ig_web_copy_link)
 
-[![Speaking action shot](./built-my-blog.jpg)](https://www.instagram.com/p/BlqRwUahm1B/?utm_source=ig_web_copy_link)
+[![Speaking action shot](./speaking/built-my-blog.jpg)](https://www.instagram.com/p/BlqRwUahm1B/?utm_source=ig_web_copy_link)
 
-[![Credit Card Design](./creditcard-002.png)](https://www.instagram.com/p/BlreZloh7qK/?utm_source=ig_web_copy_link)
+[![Credit Card Design](./friyay/creditcard-002.png)](https://www.instagram.com/p/BlreZloh7qK/?utm_source=ig_web_copy_link)
 
 * I've still been posting coding puzzles on [twitter](https://twitter.com/ASpittel)! My favorite from this week is:
 

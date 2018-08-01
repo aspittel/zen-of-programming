@@ -3,7 +3,7 @@ title: My Visual Studio Code Setup
 tags: ["VSCode", "text editor", "code"]
 path: "/vs-code-setup"
 date: "7/17/2018"
-cover: "/text-editor-header.png"
+cover: "/vs-code/text-editor-header.png"
 published: true
 ---
 
@@ -17,17 +17,17 @@ Those criteria being set, my two absolute favorite themes are [Fairy Floss](http
 
 #### Fairy Floss
 
-![Fairy Floss](/fairy-floss.png)
+![Fairy Floss](/vs-code/fairy-floss.png)
 
 #### Dracula
 
-![Dracula](/dracula.png)
+![Dracula](/vs-code/dracula.png)
 
 ## Font
 
 I am a long-term FiraCode loyalist (pre-dating VS Code!); I like the ligatures that make my code more readable at a glance. [It's pretty easy to set up too, which is really nice!](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)
 
-![The Fira Code Font](/fira-code.png)
+![The Fira Code Font](/vs-code/fira-code.png)
 
 ## Save Configuration
 

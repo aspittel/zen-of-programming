@@ -3,7 +3,7 @@ title: My Goals for My 24th Year
 tags: ["goals", "future"]
 path: "/goals-4-24"
 date: "7/18/2018"
-cover: "/goals-for-24.jpg"
+cover: "/goals/goals-for-24.jpg"
 published: true
 ---
 
