@@ -9,7 +9,7 @@ published: true
 
 According to GitHub, I have had a portfolio site since September 1st, 2016. And, according to Google Analytics, I got less than 300 views on the two iterations of my portfolio from September of 2016 through October of 2017. In October 2017, I did a complete rewrite of [my site](https://www.alispit.tel), and the results were pretty dramatic. I got 1,861 views the first month, and I've averaged around a thousand hits on a month since then. Of course, correlation is not causation, but I do think the redesign definitely had a positive impact. It's not exactly Facebook, but for a portfolio site that doesn't provide the viewer with anything but information about me, I think these numbers are pretty okay!
 
-![](./portfolio/analytics.png)
+![](/portfolio/analytics.png)
 
 In this post, I am going to go through an in-depth look at what has worked for me, what hasn't, my tips for building an awesome portfolio, and other people's portfolios that I love.
 
@@ -21,17 +21,17 @@ Before I get to my current portfolio that I really love, I want to talk about my
 
 The first one was a Jekyll site which used SASS and Pug. I deployed it [here](http://average-cause.surge.sh/) for nostalgia's sake -- check out the projects -- they're all from college, and most are in C++! 
 
-![](./portfolio/og-portfolio.png)
+![](/portfolio/og-portfolio.png)
 
 This setup was unnecessarily complex for the actual content of the website. I used Jekyll, MaterializeCSS, SASS, and Pug for such a simple page -- I think the Gulp setup was longer than the actual CSS needed! I was just transitioning on to writing frontend code at any capacity, so this was really a learning opportunity for me to use SASS and Gulp. I had no need for Jekyll either -- I only had a few projects listed and only one page.
 
 Also, there are a bunch of 404's showing up in the console for resources that were unfound. If I was a developer looking at the site, I would definitely be critical of that. 
 
-![](./portfolio/404s.png)
+![](/portfolio/404s.png)
 
 The screenshots for my projects are not great. They are all either of code or cropped in an un-optimal way.
 
-![](./portfolio/project-list.png)
+![](/portfolio/project-list.png)
 
 The fonts are also too small, it is difficult to read the text. My social icons are not exactly the most prominent, which means that they probably didn't have too high of an engagement rate. 
 
@@ -39,7 +39,7 @@ There were some things that I did well, though. I really like the highlighted wo
 
 ### My Second Portfolio
 
-![](./portfolio/bubble-portfolio.png)
+![](/portfolio/bubble-portfolio.png)
 
 The second iteration was an HTML and CSS site with moving polka dots in the background. You can check it out [here](http://third-match.surge.sh/). I will admit, that I still have a soft spot for this portfolio.
 
@@ -51,13 +51,13 @@ Overall, though you can see a lot of the themes of this portfolio in my current 
 
 ## What Worked
 
-![](./portfolio/current-portfolio.png)
+![](/portfolio/current-portfolio.png)
 
 In October of last year, I started from scratch and built a [portfolio](https://www.alispit.tel) that was a little bit out of the box. **Your portfolio is one of the only sites that you will build that is a complete creative expression of yourself with no constraints.** So, I went all in, interactivity, animations, you name it, it has it. 
 
 If you click anywhere on the homepage, a random shape appears. If you hover over the letters, they animate. If you hover over my picture on the bio page, it spins.
 
-![](./portfolio/random-shapes.png)
+![](/portfolio/random-shapes.png)
 
 I used Vue for this portfolio, so it seamlessly transitions from page to page. I also increased the font sizes, so readers could gather information more quickly and easily. My contact page offers large buttons to follow me elsewhere on the internet.
 
