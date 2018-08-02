@@ -67,7 +67,7 @@ This design grabs people's attention, and they stay on the site in order to inte
 
 ### What I could still do better
 
-As far as effectiveness for converting people to my other social media, I could have links to my sites on each page rather than just the contact page. I also probably need to cull through my projects and choose a few to feature, rather than have 26 personal projects listed! I also don't have screenshots of my project -- this is intentional, but I could probably get more traffic to them if I put pictures on them. I didn't like the different color palettes that adding in screenshots of my program would create. Also, I don't have many projects that I find super impressive in themselves. For the most part, they are pretty small, and I create them to learn something. I could further optimize my site, but for now, I really like where its at. 
+As far as effectiveness for converting people to my other social media, I could have links to my sites on each page rather than just the contact page. I also probably need to cull through my projects and choose a few to feature, rather than have 26 personal projects listed! I also don't have screenshots of my projects -- this is intentional, but I could probably get more traffic to them if I put pictures on them. I didn't like the different color palettes that adding in screenshots of my program would create. Also, I don't have many projects that I find super impressive in themselves. For the most part, they are pretty small, and I create them to learn something. I could further optimize my site, but for now, I really like where its at. 
 
 ## My tips for building a kickass portfolio
 
