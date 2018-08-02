@@ -3,7 +3,7 @@ title: Public Speaking as a Developer
 tags: ["tech talks", "speaking"]
 path: "/speaking-as-a-developer"
 date: "7/25/2018"
-cover: "./speaking/speaking.jpg"
+cover: "/speaking/speaking.jpg"
 published: true
 ---
 
@@ -90,7 +90,7 @@ Make sure you pay attention to the length of your talk! Some conferences do 30-m
 
 ## The Day of your Talk
 
-![Me speaking at an event](./speaking/built-my-blog.jpg)
+![Me speaking at an event](/speaking/built-my-blog.jpg)
 
 So, I'm not going to sugar coat this, you will almost definitely be nervous on the day of your talk, especially right before. It happens! I still get nervous and I do this all the time! My biggest tip here is to listen to peppy music that you really like right before you speak-- I listen to Britney Spears and Beyonce before every talk and love it. I wear clothes that I'm comfortable in, that usually make a statement -- that's just another thing that makes me feel more confident in front of a crowd.
 
