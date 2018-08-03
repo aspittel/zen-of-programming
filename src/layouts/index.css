@@ -194,8 +194,12 @@ form p {
   margin-bottom: 20px;
 }
 
-p {
+p, li {
   font-size: 18px;
+}
+
+li {
+  margin-bottom: 20px;
 }
 
 label {
