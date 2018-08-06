@@ -1,10 +1,11 @@
 import React from "react"
 import SideBar from "../components/SideBar"
+import Share from "../components/SocialShare"
 
 export default function Template({
   data // this prop will be injected by the GraphQL query below.
 }) {
-  const { markdownRemark, selfie } = data // data.markdownRemark holds our post data
+  const { markdownRemark, selfie, site } = data // data.markdownRemark holds our post data
   const { frontmatter, html } = markdownRemark
   return (
     <div className="page-content">
@@ -16,8 +17,18 @@ export default function Template({
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
         />
+        <h2 className="share">Share</h2>
+        <Share
+          socialConfig={{
+            config: {
+              twitterData: "@aspittel",
+              url: `${site.siteMetadata.siteUrl}${frontmatter.path}`,
+              title: frontmatter.title
+            }
+          }}
+        />
       </div>
-      <SideBar selfie={selfie}/>
+      <SideBar selfie={selfie} />
     </div>
   )
 }
@@ -27,6 +38,12 @@ export const pageQuery = graphql`
     selfie: imageSharp(id: { regex: "/selfie/" }) {
       sizes(maxWidth: 500) {
         ...GatsbyImageSharpSizes_noBase64
+      }
+    }
+    site {
+      siteMetadata {
+        siteUrl
+        twitterHandle
       }
     }
     markdownRemark(frontmatter: { path: { eq: $path } }) {

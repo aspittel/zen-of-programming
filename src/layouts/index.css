@@ -207,6 +207,10 @@ label {
   display: inline-block;
 }
 
+.share {
+  text-align: center;
+}
+
 @media screen and (max-width: 1300px) {
   nav {
     width: 900px;

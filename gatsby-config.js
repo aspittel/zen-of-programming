@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "The Zen of Programming",
     siteUrl: `https://zen-of-programming.com`,
+    twitterHandle: "@aspittel",
     description:
       "Hi! Welcome to the Zen of Programming where I talk about programming and my life surrounding it!"
   },
