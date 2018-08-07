@@ -21,7 +21,7 @@ const TemplateWrapper = ({ children }) => (
         {
           name: "keywords",
           content:
-            "code, programming, women, tech, python, frontend, backend, javascript, html, css"
+            "code, programming, women, tech, python, frontend, backend, javascript, html, css, design, frontend programming, start programming"
         }
       ]}
       >
