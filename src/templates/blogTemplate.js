@@ -20,12 +20,37 @@ export default function Template({
           {
             name: "keywords",
             content: frontmatter.tags.join(", ")
+          },
+          {
+            name: "twitter:card",
+            content: "summary_large_image"
+          },
+          {
+            name: "twitter:site",
+            content: "@aspittel"
+          },
+          {
+            name: "twitter:creator",
+            content: "@aspittel"
+          },
+          {
+            name: "twitter:title",
+            content: frontmatter.title
+          },
+          {
+            name: "twitter:description",
+            content: excerpt
+          },
+          {
+            name: "twitter:image",
+            content: "https://zen-of-programming.com" + frontmatter.cover
           }
         ]}
       >
         <html lang="en" />
       </Helmet>
-      <div className="blog-post">
+
+<div className="blog-post">
         <h1>{frontmatter.title}</h1>
         <img src={frontmatter.cover} alt="" srcSet="" />
         <h4>{frontmatter.date}</h4>
