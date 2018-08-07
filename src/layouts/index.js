@@ -22,6 +22,30 @@ const TemplateWrapper = ({ children }) => (
           name: "keywords",
           content:
             "code, programming, women, tech, python, frontend, backend, javascript, html, css, design, frontend programming, start programming"
+        },
+        {
+          name: "twitter:card",
+          content: "summary_large_image"
+        },
+        {
+          name: "twitter:site",
+          content: "@aspittel"
+        },
+        {
+          name: "twitter:creator",
+          content: "@aspittel"
+        },
+        {
+          name: "twitter:title",
+          content: "The Zen of Programming"
+        },
+        {
+          name: "twitter:description",
+          content: "A blog about writing code and the life surrounding it"
+        },
+        {
+          name: "twitter:image",
+          content: "https://zen-of-programming.com/writing-code.jpeg"
         }
       ]}
       >
