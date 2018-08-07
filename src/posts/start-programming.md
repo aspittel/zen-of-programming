@@ -6,6 +6,7 @@ date: "8/7/2018"
 cover: "/start-programming/25-tips.png"
 published: true
 ---
+
 The most common question I get from blog readers is "What is your advice for new programmers?" So, I thought it was time to write up my thoughts.
 
 I will write up my full story in the future, but I took two computer science classes in college. Then, I got a software engineering internship shortly after. I started doing web development work, initially on the backend and then eventually on the frontend. My college definitely did not teach web development, let alone within the first few computer science classes, so I taught myself.
@@ -22,7 +23,7 @@ The rest of this article will have my tips for started.
 
 If you want to start programming, there has to be a reason for that. Whether its that you love writing code, you want to have a more lucrative career, or that you are doing a bunch of Excel work and you want to make that more efficient. Keep track of that reason; programming is hard, and you will get frustrated sometimes. It will be essential to keep that reason in mind to stick with it. You could put a sticky note on your computer, a note on your home screen, or (like me) write it on your mirror with a dry erase marker.
 
-### 2. Solid foundation
+### 2. Build a solid foundation
 
 This may be a unique piece of advice, but I think its really helpful. Before you start writing code, if you haven't looked at math in a while, I would revisit the concepts from Algebra 1. Most of programming is built on algebra 1 math -- i.e., functions and variables. Understanding these concepts outside of programming will be super valuable in the future. I recommend [Khan Academy's](https://www.khanacademy.org/math/algebra/) Algebra 1 course!
 
@@ -30,7 +31,7 @@ This may be a unique piece of advice, but I think its really helpful. Before you
 
 Another thing that will be really helpful is finding a community to support you as you start writing code. This community will be valuable because other people will be in the same place as you, offer resources that helped them, and offer encouragement. I would suggest finding a meetup in your area as the top solution here, even small cities tend to have a group somewhat nearby. If there isn't one, I would suggest [dev.to](https://dev.to/) and the CodeNewbie community as two excellent alternatives. CodeNewbie has a weekly Twitter chat, a Slack group, and podcasts to listen to. Dev.to has a bunch of blog posts and a #discuss tag where you can post your questions!
 
-### 4. Break down problems
+### 4. Break down problems into smaller ones
 
 One of the most important parts of programming is taking a large problem and breaking it into smaller and smaller pieces until those pieces are solvable. If you are looking at a blank text editor not knowing where to start, it may be because you haven't broken down the problem enough!
 
@@ -38,7 +39,7 @@ One of the most important parts of programming is taking a large problem and bre
 
 Related to the previous point, a lot of times it is beneficial to write down in detail what you are trying to do in plain words before even trying to write code. This process is called pseudocoding, and it can take whatever form you want it to. It can also be helpful to solve a problem really slowly on paper first, thinking about or even writing down the individual steps you are taking to solve that problem.
 
-### 6. Cycle of learning
+### 6. Embrace the cycle of learning
 
 If you're learning to code as a second career, especially if you've been away from the classroom for a while, learning how to learn is going to be a big part of your process. There are lots of ups and downs involved, which is very natural! I would brace yourself for that rollercoaster before starting out. 
 
@@ -50,7 +51,7 @@ There are a million and one resources for learning how to code. Some are free, a
 
 There are a lot of worlds within programming, find one world that you love and focus on that. Instead of trying to learn 8 programming languages, frontend and backend, compiled and interpreted languages, all the text editors and developer tools, etc. Find a few things you are really interested in and get good at them. 
 
-### 9. Pattern recognition
+### 9. Get good at pattern recognition
 
 Recognizing patterns in code is one of the most important skills you can have. When people talk about writing "DRY" code (i.e., Don't Repeat Yourself) they are talking about reducing the patterns in your code. I recommend the game Set for pattern recognition -- you can even [play online each day](https://www.nytimes.com/crosswords/game/set) on the New York Times' website!
 
@@ -62,7 +63,7 @@ It will be easier to write clean code in the future if you get into the habit ea
 
 Everybody learns differently -- whether that means you are a visual learner, love videos, need somebody to push you, or you love documentation, you will learn best differently than the person next to you. Identify how you learn best, and rely on resources that fit that style well. For example, I learn best from reading documentation and code examples from that documentation, and I lose focus easily in tutorials. 
 
-### 12. Struggle but not too much
+### 12. Struggle, but not too much
 
 Struggling a little bit when you are learning is really important so that you can solve the problem yourself and find an answer using resources that exist. That being said, it can become unproductive and demotivating to struggle with a problem for too long. After a few hours, reach out to someone for help!
 
@@ -90,7 +91,7 @@ Learning one thing in depth is better than learning a tiny bit about a lot of th
 
 The fundamentals of programming are invaluable, and you will use them no matter what you end up doing with programming. Focus on having a solid knowledge of loops, conditionals, functions, data types, and (in most languages) object-oriented programming before moving on to learning about that awesome library that everyone's talking about. It will be so much easier to learn that library once you know the fundamentals really well. They will also carry over from language to language, so you only have to really learn them once -- after that it's just syntax!
 
-### 19. Problem-solving
+### 19. Get good at Problem-solving
 
 Problem-solving is the basis behind programming! Getting better at this is critical. Solving riddles, writing code on paper, and breaking down problems can really help with problem-solving. Something I sometimes see with new developers is that they approach programming like a research problem instead of a problem-solving project -- if they Google something well enough, then they'll have a solution. Yes, Google and Stack Overflow are super helpful, but rely on yourself sometimes too. Try something out a few different ways before researching it. Or, research small parts of the problem instead of the problem itself -- i.e. "turn a String into an array JavaScript" instead of "reverse string JavaScript."
 
