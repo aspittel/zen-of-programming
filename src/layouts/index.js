@@ -47,6 +47,7 @@ const TemplateWrapper = ({ children }) => (
           name: "twitter:image",
           content: "https://zen-of-programming.com/writing-code.jpeg"
         }
+
       ]}
       >
       <html lang="en" />
