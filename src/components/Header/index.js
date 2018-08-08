@@ -6,7 +6,7 @@ const Header = () => (
     <Link
       to='/'
     >
-      <h1>
+      <h1 className="logo">
         The Zen of<br /> Programming
       </h1>
     </Link>
