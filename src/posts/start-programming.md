@@ -11,7 +11,7 @@ The most common question I get from blog readers is "What is your advice for new
 
 I will write up my full story in the future, but I took two computer science classes in college. Then, I got a software engineering internship shortly after. I started doing web development work, initially on the backend and then eventually on the frontend. My college definitely did not teach web development, let alone within the first few computer science classes, so I taught myself.
 
-I don't think my story is unique -- all programmers are self-taught to some degree, whether that's fully self-taught or that they have a masters in computer science, but they taught themselves ReGex along the way. In fact, self-teaching may be one of the most important skills you can have as a developer.
+I don't think my story is unique -- all programmers are self-taught to some degree, whether that's fully self-taught or that they have a masters in computer science, but they taught themselves RegEx along the way. In fact, self-teaching may be one of the most important skills you can have as a developer.
 
 In addition to my own experience, I also teach people to code as my primary job and for organizations I volunteer with -- so this article is drawing on that experience as well.
 
