@@ -45,7 +45,7 @@ If you're learning to code as a second career, especially if you've been away fr
 
 ### 7. Start with free resources
 
-There are a million and one resources for learning how to code. Some are free, and some are paid. I would start with the free resources, make sure you like writing code, and then after that, you could think about moving onto paid resources or even a bootcamp.
+There are a million and one resources for learning how to code. Some are free, and some are paid. I would start with the free resources, make sure you like writing code, and then after that, you could think about moving onto paid resources or even a bootcamp. I have a post about my favorite free learn to code resources [here](https://zen-of-programming.com/favorite-free-resources).
 
 ### 8. Find your niche
 
@@ -130,4 +130,4 @@ Programming is really cool because you get to build things. I always come back t
 
 If you liked this article, there's a lot more where it came from! I send out a [newsletter](https://tinyletter.com/ali_writes_code) every week with my favorite links and what I've written that week. You can also [follow me](https://twitter.com/ASpittel) on Twitter to see my posts as they come out!
 
-On Thursday, I will be posting my 25 favorite beginner-friendly resources!
+*The sister post to this article about my favorite resources for new programmers is [here](https://zen-of-programming.com/favorite-free-resources)*!
