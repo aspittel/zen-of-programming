@@ -44,7 +44,7 @@ Last week, I shared [my tips](https://zen-of-programming.com/start-programming) 
 
 ### Awesome beginner Libraries
 
-* Build art with JavaScript: [P5 JS](https://p5js.org/)
+* Build art with JavaScript: [P5.js](https://p5js.org/)
 * Build a customized map with JavaScript: [Leaflet](https://leafletjs.com/)
 * Build virtual reality applications with HTML: [A-Frame](https://aframe.io/)
 *  Build a JavaScript game: [Phaser](https://phaser.io/)
