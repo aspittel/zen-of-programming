@@ -49,6 +49,11 @@ Last week, I shared [my tips](https://zen-of-programming.com/start-programming) 
 * Build virtual reality applications with HTML: [A-Frame](https://aframe.io/)
 *  Build a JavaScript game: [Phaser](https://phaser.io/)
 
+### Communities
+
+* Ask questions with the #explainlikeimfive, #help, and #meta tags [dev.to](https://dev.to)
+* Participate in Twitter chats, listen to awesome motivational podcasts, and read helpful blog posts: [CodeNewbies](https://twitter.com/CodeNewbies) - they also have a Slack group!
+
 ## Your Favorites
 
 Again, these are the resources that I have used myself or gone at least gone through, so I can definitely recommend them. Since I do mostly Python and JavaScript development, these lean pretty heavily in that direction! [Tweet me](https://twitter.com/ASpittel) your favorite resources! If you liked this article, [subscribe](https://tinyletter.com/ali_writes_code) to my weekly mailing list with my favorite links from the week and all of my writing from that week!
