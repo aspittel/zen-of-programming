@@ -2,7 +2,7 @@
 title: "25 Tips for New Developers: Advice from a (Mostly) Self-Taught Software Engineer"
 tags: ["beginners", "start", "programming", "career"]
 path: "/start-programming"
-date: "8/7/2018"
+date: "2018-08-07"
 cover: "/start-programming/25-tips.png"
 published: true
 ---

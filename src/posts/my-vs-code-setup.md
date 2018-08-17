@@ -2,7 +2,7 @@
 title: My Visual Studio Code Setup
 tags: ["VSCode", "text editor", "code"]
 path: "/vs-code-setup"
-date: "7/17/2018"
+date: "2018-07-17"
 cover: "/vs-code/text-editor-header.png"
 published: true
 ---

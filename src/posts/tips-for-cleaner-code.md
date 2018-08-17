@@ -2,7 +2,7 @@
 title: "Extreme Makeover: Code Edition"
 tags: ["tech talks", "list", "speaking"]
 path: "/cleaner-code"
-date: "7/23/2018"
+date: "2018-07-23"
 cover: "./clean-code/clean code.jpg"
 published: true
 ---

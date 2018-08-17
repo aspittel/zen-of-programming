@@ -2,7 +2,7 @@
 title: "My Terminal Setup: iTerm + Zsh"
 tags: ["terminal", "iterm", "zsh", "zshell"]
 path: "/terminal-setup"
-date: "7/31/2018"
+date: "2018-07-31"
 cover: "/terminal/terminal-header.png"
 published: true
 ---

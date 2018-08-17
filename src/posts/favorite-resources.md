@@ -2,7 +2,7 @@
 title: My Favorite Free Resources for New Programmers
 tags: ["new developers", "codenewbie", "learn to code", "free learn to code", "free learn programming", "programming resources", "learn javascript", "learn python"]
 path: "/favorite-free-resources"
-date: "8/12/2018"
+date: "2018-08-12"
 cover: "/start-programming/free-resources.png"
 published: true
 ---

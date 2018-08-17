@@ -27,7 +27,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       filter: { frontmatter: { published: { eq: true } } }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       group(field: frontmatter___tags) {
         fieldValue

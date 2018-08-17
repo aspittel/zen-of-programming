@@ -2,7 +2,7 @@
 title: Hello, World
 tags: ["blogging", "intro", "introduction"]
 path: "/hello-world"
-date: "7/16/2018"
+date: "2018-07-16"
 cover: "./hello-world/hello-world.png"
 published: true
 ---

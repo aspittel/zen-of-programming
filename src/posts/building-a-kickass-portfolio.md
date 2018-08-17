@@ -2,7 +2,7 @@
 title: "Building a Kickass Portfolio"
 tags: ["portfolio", "career", "jobs"]
 path: "/kickass-portfolio"
-date: "8/2/2018"
+date: "2018-08-02"
 cover: "/portfolio/current-portfolio.png"
 published: true
 ---

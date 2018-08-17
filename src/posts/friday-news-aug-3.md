@@ -2,7 +2,7 @@
 title: "Friday Wrap Up: August 3rd Edition"
 tags: ["Friday", "links", "wrapup"]
 path: "/friday-aug-3"
-date: "8/3/2018"
+date: "2018-08-03"
 cover: "/friyay/friyay.png"
 published: true
 ---

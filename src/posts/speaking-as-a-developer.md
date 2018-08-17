@@ -2,7 +2,7 @@
 title: Public Speaking as a Developer
 tags: ["tech talks", "speaking"]
 path: "/speaking-as-a-developer"
-date: "7/25/2018"
+date: "2018-07-25"
 cover: "/speaking/speaking.jpg"
 published: true
 ---
