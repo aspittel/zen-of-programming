@@ -52,7 +52,7 @@ export default function Template({
 
       <div className="blog-post">
         <h1 className="blog-title">{frontmatter.title}</h1>
-        <img src={frontmatter.cover} alt="" srcSet="" />
+        <img src={frontmatter.cover} alt="" srcSet="" className="header-picture" />
         <h4>{frontmatter.date}</h4>
         <div
           className="blog-post-content"

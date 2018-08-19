@@ -8,10 +8,8 @@ library.add(fab)
 
 import {
 	FacebookShareButton,
-	GooglePlusShareButton,
 	LinkedinShareButton,
 	TwitterShareButton,
-	WhatsappShareButton,
 	RedditShareButton,
 } from 'react-share';
 

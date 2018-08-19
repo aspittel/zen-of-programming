@@ -33,6 +33,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  max-width:100%;
 }
 
 h4 {
@@ -89,10 +90,6 @@ h4 {
   text-align: center;
 }
 
-img {
-  width: 100%;
-}
-
 nav {
   width: 1200px;
   position: fixed;
@@ -101,6 +98,10 @@ nav {
   z-index: 1;
   background-color: white;
   border-bottom: 1px solid #9b9b9b;
+}
+
+.article img {
+  width: 100%;
 }
 
 nav a {
@@ -145,7 +146,7 @@ nav a:hover {
 
 .page-content {
   display: grid;
-  grid-template-columns: 1fr 250px;
+  grid-template-columns: 950px 250px;
 }
 
 .about {
@@ -195,6 +196,7 @@ form p {
 
 p, li {
   font-size: 18px;
+  line-height: 1.5;
 }
 
 li {
@@ -210,6 +212,10 @@ label {
   text-align: center;
 }
 
+.header-picture {
+  width: 100%;
+}
+
 @media screen and (max-width: 1300px) {
   nav {
     width: 900px;
@@ -218,6 +224,10 @@ label {
   .container,
   .blog-post-container {
     width: 900px;
+  }
+
+  .page-content {
+    grid-template-columns: 650px 250px;
   }
 }
 
