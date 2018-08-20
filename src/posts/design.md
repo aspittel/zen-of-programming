@@ -43,7 +43,7 @@ When I work with rainbow color schemes, I treat the rainbow as one color and the
 
 ![](/portfolio/current-portfolio.png)
 
-### Clashing
+### Clashing Colors
 
 It's important to make sure your colors look good together and don't clash. Usually, the colors opposite to each other on the color wheel clash. Of course, you can make excellent websites that utilize clashing colors, but it is more difficult and may be better left to designers. Some examples would be red and green or orange and purple.
 
