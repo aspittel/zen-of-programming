@@ -15,7 +15,7 @@ I really enjoy playing with color on my websites, but there needs to be a balanc
 
 ### Consistency
 
-Here's my color scheme for [The Zen of Programming](https://the-zen-of-programming.com):
+Here's my color scheme for [The Zen of Programming](https://zen-of-programming.com):
 
 ![](/design/colors.png)
 
@@ -167,13 +167,14 @@ My rule of thumb is one decorative (think cursive or un-traditional) font or a s
 
 * [Pacifico](https://fonts.google.com/specimen/Pacifico)
 * [Righteous](https://fonts.google.com/specimen/Righteous)
-* [Fira Sans](https://fonts.google.com/specimen/Fira+Sans)
+* [Lobster](https://fonts.google.com/specimen/Lobster)
 
 **Sans-Serif**
 
 * [Roboto](https://fonts.google.com/specimen/Roboto)
 * [Lato](https://fonts.google.com/specimen/Lato)
 * [Montserrat](https://fonts.google.com/specimen/Montserrat)
+* [Fira Sans](https://fonts.google.com/specimen/Fira+Sans)
 * Arial - this one comes on your computer
 
 ### Color
