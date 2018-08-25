@@ -4,7 +4,7 @@ tags: ["Friday", "links", "wrapup"]
 path: "/friday-aug-3"
 date: "2018-08-03"
 cover: "/friyay/friyay.png"
-published: true
+published: false
 ---
 
 This week was insane! It was my last full week in Hartford, Connecticut after teaching a web development course for the past three months. Being away from DC has been really hard; I missed my friends and normal life a lot. But, without the distractions, I really focused on building my blog over the last few weeks which has turned out to be going pretty well so far!

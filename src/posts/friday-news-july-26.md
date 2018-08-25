@@ -4,7 +4,7 @@ tags: ["Friday", "links", "wrapup"]
 path: "/friday-jul-27"
 date: "2018-07-27"
 cover: "/friyay/friyay.png"
-published: true
+published: false
 ---
 
 This week was pretty crazy, I'm wrapping up a summer in Hartford Connecticut and I am gearing up for a couple weeks of much needed vacation! I'm still having a lot of fun writing here as much as I can; my [speaking post](https://dev.to/aspittel/public-speaking-as-a-developer-2ihj) took a lot more time than a lot of posts. That being said, I wrote two posts this week instead of a new one each day, but those posts were pretty in depth so I spent a similar amount of time writing!

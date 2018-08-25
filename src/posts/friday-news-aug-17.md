@@ -4,7 +4,7 @@ tags: ["Friday", "links", "wrapup"]
 path: "/friday-aug-17"
 date: "2018-08-17"
 cover: "/friyay/friyay.png"
-published: true
+published: false
 ---
 I am so excited to be back in DC -- it feels like when I first moved here four years ago. There's a lot of new places in my neighborhood even after just a few months away! I have been trying to take a true vacation, so I haven't written too much this week, but I will be back to work next week and, with that, back to a more normal schedule!
 

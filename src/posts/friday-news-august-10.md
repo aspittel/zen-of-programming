@@ -4,7 +4,7 @@ tags: ["Friday", "links", "wrapup"]
 path: "/friday-aug-10"
 date: "2018-08-10"
 cover: "/friyay/friyay.png"
-published: true
+published: false
 ---
 
 Happy Friday! I've had this week off (and next week!), so I'm writing this from New York City where I'm vacationing. It's been nice to not be working all the time, and it will be even more awesome to move back to DC next week. 

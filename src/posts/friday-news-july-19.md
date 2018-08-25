@@ -4,7 +4,7 @@ tags: ["Friday", "links", "wrapup"]
 path: "/friday-jul-19"
 date: "2018-07-19"
 cover: "/friyay/friyay.png"
-published: true
+published: false
 ---
 
 Week one of the Zen of Programming in the books! I am super excited to be working on this project and to get to write about things that are a little bit more personal to me. I will probably eventually no longer be able to write every day, but for now, that posting schedule is working so I will stick with it! On Fridays, I am going to write a wrap-up with some of my favorite links from the week and any updates!
