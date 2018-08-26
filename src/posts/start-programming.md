@@ -1,6 +1,9 @@
 ---
 title: "25 Tips for New Developers: Advice from a (Mostly) Self-Taught Software Engineer"
 tags: ["beginners", "start", "programming", "career"]
+twitter_image: "/start-programming/twitter-share.png"
+facebook_image: "/start-programming/facebook-share.png"
+pinterest_image: "/start-programming/pinterest-all-tips.png"
 path: "/start-programming"
 date: "2018-08-07"
 cover: "/start-programming/25-tips.png"
@@ -125,6 +128,7 @@ Programming is really cool because you get to build things. I always come back t
 
 > **Sandi Metz**
 
+![Some tips for people who are starting to write code](/start-programming/pinterest-list.png)
 
 ## Keep in Touch!
 

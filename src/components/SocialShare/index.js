@@ -11,6 +11,7 @@ import {
 	LinkedinShareButton,
 	TwitterShareButton,
 	RedditShareButton,
+	PinterestShareButton
 } from 'react-share';
 
 import './share.css';
@@ -29,6 +30,12 @@ const Share = ({ socialConfig, tags }) => (
 			</span>
 			<span className="text">Twitter</span>
 		</TwitterShareButton>
+		<PinterestShareButton url={socialConfig.config.url} media={socialConfig.config.image} className="button is-outlined is-rounded pinterest" description={socialConfig.config.title} >
+			<span className="icon">
+				<FontAwesomeIcon icon={['fab', 'pinterest']} />
+			</span>
+			<span className="text">Pinterest</span>
+		</PinterestShareButton>
 		<LinkedinShareButton url={socialConfig.config.url} className="button is-outlined is-rounded linkedin" title={socialConfig.config.title} >
 			<span className="icon">
 				<FontAwesomeIcon icon={['fab', 'linkedin-in']} />
@@ -49,6 +56,7 @@ Share.propTypes = {
 		config: PropTypes.shape({
 			url: PropTypes.string.isRequired,
 			title: PropTypes.string.isRequired,
+			image: PropTypes.string.isRequired
 		}),
 	}).isRequired,
 	tags: PropTypes.arrayOf(PropTypes.string),
