@@ -1,5 +1,5 @@
-import React from "react";
-import Img from "gatsby-image";
+import React from "react"
+import Img from "gatsby-image"
 
 const AboutPage = props => {
   return (
@@ -13,12 +13,7 @@ const AboutPage = props => {
         <p>
           I have the really cool job of teaching other people how to code at
           General Assembly DC's Web Development Immersive program. Before that,
-          I was a software engineer at 0ptimus.
-        </p>
-        <p>
-          My favorite stack right now is Vue.js on the frontend and Django on
-          the backend. I also have worked with React, Ruby on Rails, Java,
-          Meteor, Express, MongoDB, PostgreSQL, CSS, and C++.
+          I was a software engineer.
         </p>
         <p>
           When I'm not working you can find me watching my favorite New England
@@ -27,8 +22,8 @@ const AboutPage = props => {
         </p>
       </div>
     </div>
-  );
-};
+  )
+}
 
 export default AboutPage;
 

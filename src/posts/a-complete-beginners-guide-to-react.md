@@ -10,7 +10,7 @@ cover: "/react-intro/PostHeader.jpg"
 published: true
 ---
 
-I want to get back into writing more technical content, and React is one of my favorite technologies, so I thought I would create a React intro! This post requires knowledge of HTML and JavaScript -- I am of the firm opinion that you should know these before moving on to libraries like React!
+I want to get back into writing more code-heavy content, and React is one of my favorite technologies, so I thought I would create a React intro! This post requires knowledge of HTML and JavaScript -- I am of the firm opinion that you should know these before moving on to libraries like React!
 
 ## What is React
 
