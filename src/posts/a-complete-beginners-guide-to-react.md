@@ -32,7 +32,7 @@ When we talk about "vanilla" JavaScript, we are normally talking about writing J
 ## A couple quick notes before we begin
 
 * To make this tutorial a little more succinct, some code examples have `...` before or after them, which means that some code was omitted.
-* I use Git diffs in some places to show lines of code that will change, so if you copy and past, you need to delete the `+` at the beginning of the line.
+* I use Git diffs in some places to show lines of code that will change, so if you copy and paste, you need to delete the `+` at the beginning of the line.
 * I have full CodePens with the completed versions of each section -- so you can use those to play catch-up!
 * More advanced concepts that aren't essential for the tutorial are in blockquotes, these are mostly just facts that I think are interesting! 
 
