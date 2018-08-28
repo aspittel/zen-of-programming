@@ -609,6 +609,14 @@ We just return the UI of the component instead of using the `render` method!
 
 [Here](https://codepen.io/aspittel/pen/NLrPWN) is a CodePen that implements this refactor!
 
+## Cheat Sheet
+
+I love cheatsheets, so I made one with the content from this post!
+
+![React cheat sheet with state and props, event handlers, and components](/react-intro/cheatsheet.png)
+
+You can also download it as a PDF [here](/react-intro/cheatsheet.pdf)!
+
 ## Next Steps
 
 To recap, we talked about the component architecture, the basic React syntax and JSX, state and props, event handlers, and functional components.
@@ -623,7 +631,7 @@ Also, here are some other awesome places to learn React:
 * [DevCoffee](https://www.youtube.com/watch?v=ZnRFerIP8aA)
 * [Wes Bos Redux](https://www.youtube.com/watch?v=hmwBow1PUuo&list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy)
 
-
 ## Keep in touch
 
 If you liked this article and want to read more, I have a [weekly newsletter](https://tinyletter.com/ali_writes_code) with my favorite links from the week and my latest articles. Also, [tweet](https://twitter.com/aspittel) me about things you want me to write tutorials on, or constructive feedback on how I could make these easier to follow! If you have any questions, my [AMA repo](https://github.com/aspittel/ama) is the best place to reach me!
+
