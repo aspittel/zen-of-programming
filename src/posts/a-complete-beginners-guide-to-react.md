@@ -45,7 +45,7 @@ For now, since we want to get up and running super quickly so we can write actua
 ```html
 <script crossorigin src="https://unpkg.com/react@16/umd/react.development.js"></script>
 <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/6.1.19/browser.js">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/6.1.19/browser.js"></script>
 ```
 
 I also made a [Codepen template](https://codepen.io/aspittel/pen/gdrexE) that you can use!
