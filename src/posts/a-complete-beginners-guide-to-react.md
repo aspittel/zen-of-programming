@@ -14,7 +14,7 @@ I want to get back into writing more technical content, and React is one of my f
 
 ## What is React
 
-React is a JavaScript library build in 2013 by the Facebook development teach to make user interfaces more modular (or reusable) and easier to maintain. According to React's website, it is used to "Build encapsulated components that manage their own state, then compose them to make complex UIs."
+React is a JavaScript library build in 2013 by the Facebook development team to make user interfaces more modular (or reusable) and easier to maintain. According to React's website, it is used to "Build encapsulated components that manage their own state, then compose them to make complex UIs."
 
 I'm going to use a lot of Facebook examples throughout this post since they wrote React in the first place!
 
