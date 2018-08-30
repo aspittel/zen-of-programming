@@ -25,10 +25,10 @@ a {
 .article-link > a {
   color: #59876b;
 }
-
+/* 
 .contact {
   height: calc(100vh - 360px);
-}
+} */
 
 .contact > a {
   display: block;
