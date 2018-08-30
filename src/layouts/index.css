@@ -192,7 +192,7 @@ nav a:hover {
   margin-bottom: 7px;
 }
 
-.about .subscribe, .contact .subscribe {
+.about-me .subscribe, .contact .subscribe {
   margin: 0 auto;
   max-width: 500px;
   margin-top: 50px;
@@ -288,9 +288,10 @@ label {
   .blog-post-container {
     width: 90%;
   }
-.social-links {
-  float: left;
-}
+
+  .social-links {
+    float: left;
+  }
 
 }
 
