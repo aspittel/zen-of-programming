@@ -1,16 +1,17 @@
-import React from "react";
-import PropTypes from "prop-types";
-import Helmet from "react-helmet";
+import React from "react"
+import PropTypes from "prop-types"
+import Helmet from "react-helmet"
 
-import Header from "../components/Header";
-import NavBar from "../components/NavBar";
+import Header from "../components/Header"
+import NavBar from "../components/NavBar"
+import Footer from "../components/Footer"
 
-import "./index.css";
+import "./index.css"
 
-require("prismjs/themes/prism.css");
+require("prismjs/themes/prism.css")
 
 const TemplateWrapper = ({ children }) => (
-  <div className="container">
+  <div>
     <Helmet
       title="The Zen of Programming"
       meta={[
@@ -49,17 +50,20 @@ const TemplateWrapper = ({ children }) => (
         }
 
       ]}
-      >
+    >
       <html lang="en" />
     </Helmet>
-    <NavBar />
-    <Header />
-    {children()}
+    <div className="container">
+      <NavBar />
+      <Header />
+      {children()}
+    </div>
+    <Footer />
   </div>
-);
+)
 
 TemplateWrapper.propTypes = {
   children: PropTypes.func
-};
+}
 
 export default TemplateWrapper;

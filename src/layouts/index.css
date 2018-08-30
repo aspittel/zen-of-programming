@@ -3,6 +3,7 @@
 body {
   color: #4a4a4a;
   font-family: "Lato", sans-serif;
+  margin: 0;
 }
 
 blockquote {
@@ -25,8 +26,16 @@ a {
   color: #59876b;
 }
 
+.contact {
+  height: calc(100vh - 360px);
+}
+
 .contact > a {
   display: block;
+}
+
+.contact h1 {
+  text-align: center;
 }
 
 .tags {
@@ -78,7 +87,7 @@ h4 {
 .blog-post-container {
   width: 1200px;
   margin: 0 auto;
-  padding-bottom: 400px;
+  padding-bottom: 100px;
 }
 
 .vertical-line {
@@ -87,9 +96,11 @@ h4 {
   padding-left: 20px;
 }
 
+
 .container {
   width: 1200px;
   margin: 0 auto;
+  min-height: 100%;
 }
 
 .posts {
@@ -105,6 +116,7 @@ nav {
   background-color: white;
   border-bottom: 1px solid #9b9b9b;
 }
+
 
 .article img {
   width: 100%;
@@ -136,7 +148,7 @@ nav a:hover {
 }
 
 .selfie {
-  max-width: 700px;
+  max-width: 200px;
   margin: 0 auto;
 }
 
@@ -163,11 +175,30 @@ nav a:hover {
   border: 1px solid #9b9b9b;
 }
 
+.about-me {
+  margin-bottom: 100px;
+}
+
+.about-me h2 {
+  text-align: center;
+  color: #59876b;
+}
+
 .article {
   padding-right: 30px;
 }
 
-.bio h3 {
+.subscribe p {
+  margin-bottom: 7px;
+}
+
+.about .subscribe, .contact .subscribe {
+  margin: 0 auto;
+  max-width: 500px;
+  margin-top: 50px;
+}
+
+.bio h3, .subscribe h3 {
   color: #cf92b7;
   text-align: center;
   font-size: 25px;
@@ -257,12 +288,10 @@ label {
   .blog-post-container {
     width: 90%;
   }
+.social-links {
+  float: left;
 }
 
-@media screen and (max-width: 411px) {
-  .pinterest {
-    display: none;
-  }
 }
 
 .blog-post {
