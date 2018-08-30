@@ -24,7 +24,7 @@ const AboutPage = props => {
         </p>
         <h2>Why I created this blog</h2>
         <p>
-          When I started coding in 2013, I didn't see anybody like me in the field -- I was a young woman who had very different interests from most programmers. I also didn't have a background in writing code before college, and I struggled really hard with building confidence. I didn't learn very well in the traditional computer science setting.
+          When I started coding in 2013, I didn't see many people like me in the field. I was a young woman who had very different interests from most programmers -- like fashion,college basketball, and writing. I also didn't have a background in writing code before college, and I struggled really hard with building confidence. I didn't learn very well in the traditional computer science setting.
         </p>
         <p>
           This blog is for the Ali of a couple years ago -- and all the people like me. I want to show that people like me do exist in this industry and to show a snapshot into my life as a developer. It's going to be a combination of the lifestyle blogs I love to follow, technical posts, and the cultural critiques I occasionally like to dish out.
