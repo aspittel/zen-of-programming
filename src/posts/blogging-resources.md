@@ -31,10 +31,16 @@ published: true
 * [Blogging Slack Group](https://tryblogger.slack.com/)
 * Slack channel #blogging on WWCDC Slack!
 
-## My Posts on Blogging
+## My Resources on Blogging
+
+### Blog Posts
 
 * [My Blog Post Workflow: from Topic to Publication](https://zen-of-programming.com/blog-post-workflow)
 * [Blogging as a Developer](https://dev.to/aspittel/blogging-as-a-developer--5h0m)
+
+### Slides
+
+* [Let's Make a Blog Post](https://www.alispit.tel/blogging-workshop)
 
 ### Blogging Worsheets
 
