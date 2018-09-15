@@ -35,3 +35,10 @@ published: true
 
 * [My Blog Post Workflow: from Topic to Publication](https://zen-of-programming.com/blog-post-workflow)
 * [Blogging as a Developer](https://dev.to/aspittel/blogging-as-a-developer--5h0m)
+
+### Blogging Worsheets
+
+* [Brainstorming](/blog-post-workflow/lets-brainstorm.pdf)
+* [Posts](/blog-post-workflow/lets-think-about-posts.pdf)
+* [Outlining](/blog-post-workflow/lets-outline.pdf)
+* [Cheatsheet](/blog-post-workflow/cheatsheet.pdf)
