@@ -6,6 +6,23 @@ date: "2018-09-14"
 cover: "/blog-post-workflow/blogging-links.jpg"
 published: true
 ---
+## My Resources on Blogging
+
+### Blog Posts
+
+* [My Blog Post Workflow: from Topic to Publication](https://zen-of-programming.com/blog-post-workflow)
+* [Blogging as a Developer](https://dev.to/aspittel/blogging-as-a-developer--5h0m)
+
+### Slides
+
+* [Let's Make a Blog Post](https://www.alispit.tel/blogging-workshop)
+
+### Blogging Worsheets
+
+* [Brainstorming](/blog-post-workflow/lets-brainstorm.pdf)
+* [Posts](/blog-post-workflow/lets-think-about-posts.pdf)
+* [Outlining](/blog-post-workflow/lets-outline.pdf)
+* [Cheatsheet](/blog-post-workflow/cheatsheet.pdf)
 
 ## Where to Host Your Blog
 
@@ -31,20 +48,3 @@ published: true
 * [Blogging Slack Group](https://tryblogger.slack.com/)
 * Slack channel #blogging on WWCDC Slack!
 
-## My Resources on Blogging
-
-### Blog Posts
-
-* [My Blog Post Workflow: from Topic to Publication](https://zen-of-programming.com/blog-post-workflow)
-* [Blogging as a Developer](https://dev.to/aspittel/blogging-as-a-developer--5h0m)
-
-### Slides
-
-* [Let's Make a Blog Post](https://www.alispit.tel/blogging-workshop)
-
-### Blogging Worsheets
-
-* [Brainstorming](/blog-post-workflow/lets-brainstorm.pdf)
-* [Posts](/blog-post-workflow/lets-think-about-posts.pdf)
-* [Outlining](/blog-post-workflow/lets-outline.pdf)
-* [Cheatsheet](/blog-post-workflow/cheatsheet.pdf)
