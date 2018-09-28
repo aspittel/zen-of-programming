@@ -633,5 +633,5 @@ Also, here are some other awesome places to learn React:
 
 ## Keep in touch
 
-If you liked this article and want to read more, I have a [weekly newsletter](https://tinyletter.com/ali_writes_code) with my favorite links from the week and my latest articles. Also, [tweet](https://twitter.com/aspittel) me about things you want me to write tutorials on, or constructive feedback on how I could make these easier to follow! If you have any questions, my [AMA repo](https://github.com/aspittel/ama) is the best place to reach me!
+If you liked this article and want to read more, I have a [weekly newsletter](https://mailchi.mp/b4216331e284/zen-of-programming) with my favorite links from the week and my latest articles. Also, [tweet](https://twitter.com/aspittel) me about things you want me to write tutorials on, or constructive feedback on how I could make these easier to follow! If you have any questions, my [AMA repo](https://github.com/aspittel/ama) is the best place to reach me!
 

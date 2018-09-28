@@ -12,6 +12,8 @@ published: true
 
 Writing blog posts can be pretty tricky -- it's hard to come up with a topic to write about let alone actually create the content. I've been blogging more and more, and I wanted to give my advice for writing posts -- from the topic through pressing the post button! If you're interested in my advice for starting a blog, I also have a post on that [here](https://dev.to/aspittel/blogging-as-a-developer--5h0m).
 
+*This post contains affiliate links. If you buy something through those links I may earn a small commission at no cost to you. This helps pay for the costs associated with running The Zen of Programming. I promise to only recommend products I use and love!*
+
 ## 1. Finding a topic
 
 Sometimes, finding a topic for a blog post is one of the hardest parts of creating it! Here are a few tips for finding topics:
@@ -49,7 +51,7 @@ I write my content using my text editor [VS Code](https://zen-of-programming.com
 
 ## 3. Revision
 
-Next, I run my post through [Grammarly](https://app.grammarly.com/) -- I have the pro version. I like how it allows me to choose the tone I'm trying to use in the post and the audience, and how I can "teach" it to be more accurate for my writing. It also picks up on overused words, which can be really helpful as well. I copy and paste my text into the desktop editor, and then go through each error making sure that the content is good as I go.
+Next, I run my post through [Grammarly](https://grammarly.go2cloud.org/SH1S5) -- I have the pro version. I like how it allows me to choose the tone I'm trying to use in the post and the audience, and how I can "teach" it to be more accurate for my writing. It also picks up on overused words, which can be really helpful as well. I copy and paste my text into the desktop editor, and then go through each error making sure that the content is good as I go.
 
 ## 4. Visuals
 
@@ -79,5 +81,5 @@ Honestly, for me, pushing publish is often the hardest part. I have a graveyard 
 
 ## Keep in touch
 
-If you liked this article and want to read more, I have a [weekly newsletter](https://tinyletter.com/ali_writes_code) with my favorite links from the week and my latest articles. Also, [tweet](https://twitter.com/aspittel) me your blog posts, I would love to read them! If you have any questions, my [AMA repo](https://github.com/aspittel/ama) is the best place to reach me.
+If you liked this article and want to read more, I have a [weekly newsletter](https://mailchi.mp/b4216331e284/zen-of-programming) with my favorite links from the week and my latest articles. Also, [tweet](https://twitter.com/aspittel) me your blog posts, I would love to read them! If you have any questions, my [AMA repo](https://github.com/aspittel/ama) is the best place to reach me.
 

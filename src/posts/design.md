@@ -311,4 +311,4 @@ Since this is a pretty long post with a lot of tips, I wanted to distill the mos
 
 ## Keep in Touch
 
-If you liked this article and want to read more, I have a [weekly newsletter](https://tinyletter.com/ali_writes_code) with my favorite links from the week and my latest articles. Also, [tweet](https://twitter.com/aspittel) me your favorite design tips! I have a ton more that I could have discussed in this article like responsiveness, whitespace, and alignment, so if you want to see more posts like this, let me know!
+If you liked this article and want to read more, I have a [weekly newsletter](https://mailchi.mp/b4216331e284/zen-of-programming) with my favorite links from the week and my latest articles. Also, [tweet](https://twitter.com/aspittel) me your favorite design tips! I have a ton more that I could have discussed in this article like responsiveness, whitespace, and alignment, so if you want to see more posts like this, let me know!

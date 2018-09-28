@@ -56,4 +56,4 @@ Last week, I shared [my tips](https://zen-of-programming.com/start-programming) 
 
 ## Your Favorites
 
-Again, these are the resources that I have used myself or gone at least gone through, so I can definitely recommend them. Since I do mostly Python and JavaScript development, these lean pretty heavily in that direction! [Tweet me](https://twitter.com/ASpittel) your favorite resources! If you liked this article, [subscribe](https://tinyletter.com/ali_writes_code) to my weekly mailing list with my favorite links from the week and all of my writing from that week!
+Again, these are the resources that I have used myself or gone at least gone through, so I can definitely recommend them. Since I do mostly Python and JavaScript development, these lean pretty heavily in that direction! [Tweet me](https://twitter.com/ASpittel) your favorite resources! If you liked this article, [subscribe](https://mailchi.mp/b4216331e284/zen-of-programming) to my weekly mailing list with my favorite links from the week and all of my writing from that week!

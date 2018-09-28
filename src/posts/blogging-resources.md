@@ -31,7 +31,8 @@ published: true
 * [Wordpress](https://wordpress.com/)
 * [Netlify + Gatsby](https://www.netlifycms.org/)
 
-## Awesome Posts on Blogging
+
+## Awesome Resources
 
 * [10 Killer Tips: How to Format a Perfect Blog Post](https://writtent.com/blog/format-perfect-blog-post-10-tips/)
 * [How To Promote Your Blog With 107 Content Promotion Tactics](https://coschedule.com/blog/how-to-promote-your-blog/)
@@ -41,6 +42,8 @@ published: true
 * [Awesome posts to get you writing!](https://dev.to/jess/awesome-posts-to-get-you-writing-53p3)
 * [How to write Medium stories people will actually read](https://medium.freecodecamp.org/how-to-write-medium-stories-people-will-actually-read-92e58a27c8d8)
 * [100 FREE TOOLS TO DO YOUR OWN MARKETING. PART 1](https://blog.crello.com/100-free-tools-to-do-your-own-marketing-part-1/)
+* [Grammarly](https://grammarly.go2cloud.org/SH1S5) - Note: this is an affiliate link for a product I love and use daily. If you sign up for Grammarly through this link, I get a small commission at no cost to you.
+
 
 ## Blogging Communities
 

@@ -174,4 +174,4 @@ __Group like items in your code so that it is more reusable.__
 
 These are some good guidelines for cleaning up your code, but they aren't written in stone! I personally don't use all of these all the time (see my personal projects!), and no code is perfect. These are just some tips for writing code that can be more easily reused, read by other developers, and extended.
 
-If you liked this article, keep in touch! I send out a [newsletter](https://tinyletter.com/ali_writes_code) every Friday with my favorite articles and what I've written that week. Also, [Tweet](https://twitter.com/ASpittel) me your favorite tips for writing clean code!
+If you liked this article, keep in touch! I send out a [newsletter](https://mailchi.mp/b4216331e284/zen-of-programming) every Friday with my favorite articles and what I've written that week. Also, [Tweet](https://twitter.com/ASpittel) me your favorite tips for writing clean code!

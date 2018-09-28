@@ -132,6 +132,6 @@ Programming is really cool because you get to build things. I always come back t
 
 ## Keep in Touch!
 
-If you liked this article, there's a lot more where it came from! I send out a [newsletter](https://tinyletter.com/ali_writes_code) every week with my favorite links and what I've written that week. You can also [follow me](https://twitter.com/ASpittel) on Twitter to see my posts as they come out!
+If you liked this article, there's a lot more where it came from! I send out a [newsletter](https://mailchi.mp/b4216331e284/zen-of-programming) every week with my favorite links and what I've written that week. You can also [follow me](https://twitter.com/ASpittel) on Twitter to see my posts as they come out!
 
 *The sister post to this article about my favorite resources for new programmers is [here](https://zen-of-programming.com/favorite-free-resources)*!

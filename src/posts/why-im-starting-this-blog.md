@@ -13,4 +13,4 @@ All that to say -- I want to build a blog that would appeal to me, and especiall
 
 As for the name of the blog, I am going to call it the "Zen of Programming" firstly because it kinda fits the theme but secondly it is a spin on the ["Zen of Python"](https://www.python.org/dev/peps/pep-0020/) which is my favorite (I even have it hanging on the wall in my apartment).
 
-I'm really excited about this project and hope you will follow along! You can find me on [Twitter](https://twitter.com/aspittel), [Instagram](https://instagram.com/ali_writes_code), or [subscribe to weekly emails](https://tinyletter.com/ali_writes_code) about new posts! I will still be crossposting my technical posts to [dev.to](https://dev.to/aspittel) as well, where my old posts will live!
+I'm really excited about this project and hope you will follow along! You can find me on [Twitter](https://twitter.com/aspittel), [Instagram](https://instagram.com/ali_writes_code), or [subscribe to weekly emails](https://mailchi.mp/b4216331e284/zen-of-programming) about new posts! I will still be crossposting my technical posts to [dev.to](https://dev.to/aspittel) as well, where my old posts will live!

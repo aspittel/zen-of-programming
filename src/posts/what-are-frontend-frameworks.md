@@ -168,4 +168,4 @@ If you want to use or learn a framework, [here](https://github.com/gothinkster/r
 
 #### Stay in touch!
 
-If you liked this article, [subscribe](tinyletter.com/ali_writes_code) to my Friday weekly wrap up!
+If you liked this article, [subscribe](https://mailchi.mp/b4216331e284/zen-of-programming) to my Friday weekly wrap up!

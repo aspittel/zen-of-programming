@@ -1,7 +1,7 @@
 # My Tech Story
 
 
-  I thought we would learn how to use Microsoft Word and Excel -- I genuinely had no idea what code was. My high school definitely did not have any coding classes, they barely had functioning computers! I didn't play video games or engage in activities that traditionally lead to kids learning how to code either. So coding was brand new to me when I took that Python class in college.
+I thought we would learn how to use Microsoft Word and Excel -- I genuinely had no idea what code was. My high school definitely did not have any coding classes, they barely had functioning computers! I didn't play video games or engage in activities that traditionally lead to kids learning how to code either. So coding was brand new to me when I took that Python class in college.
 
 As soon as I walked into the classroom, they had us type Python code into Idle, a text editor that comes with the Python language. They had printed the code and just had us type it in and run it -- I was immediately hooked. Over the course of that class, I built a Tic Tac Toe script with a GUI to input pieces and a Flappy Bird clone. It honestly came pretty easy to me, and I had a ton of fun. I quickly decided to minor in computer science, and I just wanted to write more code.
 
@@ -14,9 +14,6 @@ After that semester, I abandoned my idea of minoring in computer science, comple
 Of course, funny things happen in life and I obviously started coding again, but it took me a long time to feel like I was a competent programmer.
 
 All that being said, a few years later into my programming journey, I decided to retry implementing the Sudoku solving algorithm to prove it to myself that I could implement it now. The code isn't perfect, but it will solve pretty much any Sudoku puzzle. Let's walk through the algorithm and then the implementation.
-
-
-
 
 
 On top of that, I wasn't a member of nerd culture at all growing up. For most of high school, my goal was to work in fashion. Once I got my first volunteer campaign job during the 2015 New Hampshire Primary, that turned into my career goal -- I wanted to be a journalist on the ground for political campaigns. I still have never seen Star Wars or The Lord of The Rings, I didn't play video games growing up other than online paperdolls, and I still don't at all understand Pokemon.
