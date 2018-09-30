@@ -46,7 +46,7 @@ const TemplateWrapper = ({ children }) => (
         },
         {
           name: "twitter:image",
-          content: "https://zen-of-programming.com/writing-code.jpeg"
+          content: "https://zen-of-programming.com/desktop.jpeg"
         }
 
       ]}
