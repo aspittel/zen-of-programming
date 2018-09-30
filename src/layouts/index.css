@@ -6,6 +6,10 @@ body {
   margin: 0;
 }
 
+.uses img {
+  max-width: 75%;
+}
+
 blockquote {
   border-left: 2px solid #4a4a4a;
   padding: 5px;
@@ -291,6 +295,10 @@ label {
 
   .social-links {
     float: left;
+  }
+
+  .internal-links a {
+    font-size: 16px;
   }
 
 }
