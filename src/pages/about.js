@@ -34,7 +34,7 @@ const AboutPage = props => {
         </p>
         <h2>Follow me elsewhere!</h2>
         <p>
-          You can also find me on <a href="https://www.instagram.com/ali_writes_code/">Instagram</a>, <a href="https://www.pinterest.com/ali0714/">Pinterest</a>, <a href="https://twitter.com/ASpittel">Twitter</a>, <a href="https://dev.to/aspittel">Dev.to</a>, and <a href="https://medium.com/@ali07cat07">Medium</a>.
+          You can also find me on <a href="https://www.instagram.com/ali_writes_code/">Instagram</a>, <a href="https://www.pinterest.com/ali0714/">Pinterest</a>, <a href="https://twitter.com/ASpittel">Twitter</a>, <a href="https://dev.to/aspittel">Dev.to</a>, <a href="https://www.youtube.com/channel/UCLCxan3tD5eMxubieyEjt5A">YouTube</a>, and <a href="https://medium.com/@ali07cat07">Medium</a>.
         </p>
         <p>The best place to ask me questions online is my <a href="https://github.com/aspittel/ama">AMA Repo on GitHub</a>.<p>If you're curious about the tools I use on a daily basis, you can check out my <a href="https://zen-of-programming.com/uses">uses page!</a></p>
         <p>You can also reach out via <a href="mailto:ali@zen-of-programming.com">email</a>!</p>
