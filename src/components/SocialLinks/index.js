@@ -18,6 +18,10 @@ const SocialLinks = () => (
     <a href="https://www.github.com/aspittel" aria-label="GitHub">
       <Ionicon icon="logo-github" />
     </a>
+    <a href="https://www.youtube.com/channel/UCLCxan3tD5eMxubieyEjt5A" aria-label="GitHub">
+      <Ionicon icon="logo-youtube" />
+    </a>
+
     <a href="https://zen-of-programming.com/rss.xml" aria-label="RSS feed">
       <Ionicon icon="logo-rss" />
     </a>

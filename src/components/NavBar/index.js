@@ -13,7 +13,7 @@ const NavBar = () => (
     </span>
 
     <span className="social-links">
-    <SocialLinks />
+      <SocialLinks />
     </span>
   </nav>
 )
