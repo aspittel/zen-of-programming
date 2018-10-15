@@ -6,7 +6,7 @@ date: "2018-10-15"
 cover: "/nonprogramming-skills/nonprogrammingskills.jpg"
 published: true
 ---
-When I think about who I would like to work with as a programmer, I think so much more about non-technical skills than technical skills that make somebody a good co-worker. In fact, all of the skills that are in this post contribute to writing good code that improves technical projects. Most of them are really helpful for careers outside of programming too, but I'm going to focus on why they're useful for programmers in this post.
+When I think about who I would like to work with as a programmer, I think so much more about non-technical skills than technical skills that make somebody a good co-worker. In fact, all of the skills that are in this post contribute to writing good code that improves technical projects. Most of them are really helpful for careers outside of programming too, but I'm going to focus on why they're useful for programmers specifically.
 
 ## Empathy
 
@@ -50,7 +50,7 @@ If things are not going well, make sure to say so. Be honest about needing a dea
 
 I used to work as a rock climbing instructor and counselor at a summer camp, and the age group I worked with most were middle school girls. They were some of my favorite people I've ever worked with, but, that being said, middle schoolers aren't usually the most accepting of difference or that clique-adverse. We used to run a game where we started out in one large circle, and then one counselor would tell people they were "out of the circle", and they would have to leave the game based on some characteristic that they weren't informed of and couldn't control. The people still inside the circle would play a game, and the people outside of the circle were excluded and just had to watch from afar.
 
-This activity was super effective in showing these girls what it was like to be left out for reasons outside of your control, and I still think back on it a lot. As adults, we still leave people out of the circle and exclude them based on certain characteristics outside their control, but if we let them back into the circle and allow them to contribute then our products draw on more diverse experiences and are better. There's [a lot of research](https://hbr.org/2016/11/why-diverse-teams-are-smarter) on more diverse teams performing better, but from an individual perspective, think about what it feels like to be left out of the circle and try to make your circle larger, not smaller. Chances are, a lot of your users may be people that have traditionally been left out of the circle in tech. I can tell you from my own experience, that it's really difficult to be the only person like you on a team as someone who's been on a team with another woman for ~5% of my programming career. 
+This activity was super effective in showing these girls what it was like to be left out for reasons outside of your control, and I still think back on it a lot. As adults, we still leave people out of the circle and exclude them based on certain characteristics outside their control, but if we let them back into the circle and allow them to contribute then our products draw on more diverse experiences and are better. **There's [a lot of research](https://hbr.org/2016/11/why-diverse-teams-are-smarter) on more diverse teams performing better, but from an individual perspective, think about what it feels like to be left out of the circle and try to make your circle larger, not smaller.** Chances are, a lot of your users may be people that have traditionally been left out of the circle in tech. I can tell you from my own experience, that it's really difficult to be the only person like you on a team as someone who's been on a team with another woman for ~5% of my programming career. 
 
 This also links into empathy -- make sure that you are making your programs for a wide variety of users. Not just the able-bodied or those with cutting-edge internet or technologies. You will be able to reach more people.
 
@@ -92,13 +92,13 @@ Also, the goal posts and features for projects will often change, especially wit
 
 The community is so important for programming -- conferences, blog posts, social media, and meetups are important for learning and growing. Also, open source software and the communities that surround them are the lifeblood of this industry. Being able to network and make connections with people is so important for education, relating your experiences, and finding new opportunities.
 
-Even if you are an introvert or don't love in-person socializing, there are a ton of awesome online communities that you can learn a lot from.
-
-Even inside of companies, having a team with a strong bond will help people work better together.
+Even if you are an introvert or don't love in-person socializing, there are a ton of awesome online communities that you can learn a lot from. And, even inside of companies, having a team with a strong bond will help people work better together.
 
 ## Conclusion
 
-All of these skills are really important to work on as programmers and as people. That being said -- nobody is perfect, and everyone has room to grow.
+These skills are often referred to as "soft skills", but I feel like that's reductive. These skills help so much with both writing code and being a good co-worker. They are so much more important than knowing a specific language, library, or framework and they go far even outside of tech.
+
+All of these skills are really important to work on as programmers and as people. That being said -- nobody is perfect, and everyone has room to grow. So keep growing, and trying to make small steps to be better at these non-programming skills and I will too!
 
 ## Keep in Touch
 
